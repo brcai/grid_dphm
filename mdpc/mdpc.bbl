@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{hausdorff}
+Basalto, N., Bellotti, R., De~Carlo, F., Facchi, P., Pantaleo, E., Pascazio,
+  S.: Hausdorff clustering. Phys. Rev. E  78(4),  046112 (2008)
+
+\bibitem{iris}
+Blake, C.L., Merz, C.J.: Uci repository of machine learning databases
+  [http://www. ics. uci. edu/\~{} mlearn/mlrepository. html]. irvine, ca:
+  University of california. Department of Information and Computer Science  55
+  (1998)
+
+\bibitem{pathbased}
+Chang, H., Yeung, D.Y.: Robust path-based spectral clustering. Pattern Recogn.
+  41(1),  191--203 (2008)
+
+\bibitem{dphmdataset}
+Cho, M., MuLee, K.: Authority-shift clustering: Hierarchical clustering by
+  authority seeking on graphs. In: CVPR. pp. 3193--3200. IEEE (2010)
+
+\bibitem{fuzzy}
+Du, M., Ding, S., Xue, Y.: A robust density peaks clustering algorithm using
+  fuzzy neighborhood. Int. J. Mach. Learn. Cyb.  (2017),
+  \url{https://doi.org/10.1007/s13042-017-0636-1}
+
+\bibitem{dbscan}
+Ester, M., Kriegel, H.P., Sander, J., Xu, X., et~al.: A density-based algorithm
+  for discovering clusters in large spatial databases with noise. In: SIGKDD.
+  pp. 226--231 (1996)
+
+\bibitem{ap}
+Frey, B.J., Dueck, D.: Clustering by passing messages between data points.
+  Science  315(5814),  972--976 (2007)
+
+\bibitem{flame}
+Fu, L., Medico, E.: Flame, a novel fuzzy clustering method for the analysis of
+  dna microarray data. BMC Bioinformatics  8(1), ~3 (2007)
+
+\bibitem{meanshift}
+Fukunaga, K., Hostetler, L.: The estimation of the gradient of a density
+  function, with applications in pattern recognition. IEEE Trans. Inf. Theory
+  21(1),  32--40 (1975)
+
+\bibitem{aggregation}
+Gionis, A., Mannila, H., Tsaparas, P.: Clustering aggregation. ACM Trans.
+  Knowl. Discov. Data  1(1) (2007)
+
+\bibitem{jain}
+Jain, A.K., Law, M.H.: Data clustering: A user's dilemma. Pattern Recognition
+  and Machine Intelligence  3776,  1--10 (2005)
+
+\bibitem{dgf}
+Liang, Z., Chen, P.: Delta-density based clustering with a divide-and-conquer
+  strategy: 3dc clustering. Pattern Recogn. Lett.  73,  52--59 (2016)
+
+\bibitem{imagekmeans}
+Ray, S., Turi, R.H.: Determination of number of clusters in k-means clustering
+  and application in colour image segmentation. In: ICAPRDT. pp. 137--143.
+  Calcutta, India (1999)
+
+\bibitem{dp}
+Rodriguez, A., Laio, A.: Clustering by fast search and find of density peaks.
+  Science  344(6191),  1492--1496 (2014)
+
+\bibitem{imagedp}
+Shi, Y., Chen, Z., Qi, Z., Meng, F., Cui, L.: A novel clustering-based image
+  segmentation via density peaks algorithm with mid-level feature. Neural
+  Comput. Appl.  28(1),  29--39 (2017)
+
+\bibitem{nmi}
+Strehl, A., Ghosh, J.: Cluster ensembles---a knowledge reuse framework for
+  combining multiple partitions. J. Mach. Learn. Res.  3(Dec),  583--617 (2002)
+
+\bibitem{textdp}
+Wang, P., Xu, B., Xu, J., Tian, G., Liu, C.L., Hao, H.: Semantic expansion
+  using word embedding clustering and convolutional neural network for
+  improving short text classification. Neurocomputing  174,  806--814 (2016)
+
+\bibitem{pakdd}
+Yang, H., Zhao, D., Cao, L., Sun, F.: A precise and robust clustering approach
+  using homophilic degrees of graph kernel. In: PAKDD. pp. 257--270. Springer
+  (2016)
+
+\bibitem{knowledgebase2017}
+Yaohui, L., Zhengming, M., Fang, Y.: Adaptive density peak clustering based on
+  k-nearest neighbors with aggregating strategy. Knowl.-Based Syst.  133,
+  208--220 (2017)
+
+\bibitem{compound}
+Zahn, C.T.: Graph-theoretical methods for detecting and describing gestalt
+  clusters. IEEE Trans. Comput.  100(1),  68--86 (1971)
+
+\end{thebibliography}
